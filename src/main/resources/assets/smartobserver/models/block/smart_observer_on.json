@@ -1,0 +1,6 @@
+{
+  "parent": "smartobserver:block/smart_observer",
+  "textures": {
+    "bottom": "block/observer_back_on"
+  }
+}

@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+
+[[mods]]
+modId="smartobserver"
+version="${file.jarVersion}"
+displayName="Smart Observer"
+logoFile="smartobserver.png"
+credits=""
+authors="AviiNL"
+description='''
+An observer that can detect a specific block. Interact with the Smart Observer with a block in hand to observe.
+'''
+
+[[dependencies.smartobserver]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.smartobserver]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,5 @@
+{
+  "block.smartobserver.smart_observer": "Smart Observer",
+  "tile.smartobserver.smart_observer": "Smart Observer",
+  "smartobserver.observed": "Now observing: {0}"
+}
